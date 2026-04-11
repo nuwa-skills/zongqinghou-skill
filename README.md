@@ -73,9 +73,9 @@ zongqinghou-skill/
     └── research.md                 # 调研资料
 ```
 
-## 更多.skill
+## 更多 Skill
 
-<!-- placeholder: 更多 skill 推荐即将到来 -->
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
 ## 许可证
 
