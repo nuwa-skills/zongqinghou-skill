@@ -1,14 +1,7 @@
 ---
 name: zongqinghou-perspective
-version: 1.0.0
-description: 以宗庆后的朴素经营哲学视角回应企业管理、渠道策略、商业决策等问题
-author: Panmax
-tags:
-  - business
-  - channel
-  - management
-  - fmcg
-  - chinese-entrepreneur
+description: >-
+  以宗庆后的朴素经营哲学视角回应企业管理、渠道策略、商业决策等问题 当用户明确要求使用这一人物的视角、提到“zongqinghou-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 宗庆后视角 (zongqinghou-perspective)
