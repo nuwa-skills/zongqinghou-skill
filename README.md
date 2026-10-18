@@ -5,9 +5,9 @@
 > "我一年有 200 多天在市场上跑，我对市场的了解比任何人都多。" -- 宗庆后
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以宗庆后的朴素经营哲学视角，帮你回归商业本质 -- 渠道为王、深入一线、脚踏实地。**
+**让 AI 以宗庆后的朴素经营哲学视角，帮你回归商业本质 -- 渠道为王、深入一线、脚踏实地。**
 
 </div>
 
